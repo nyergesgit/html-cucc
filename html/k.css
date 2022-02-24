@@ -1,0 +1,11 @@
+body {
+    background-image: url("https://cdn4.vectorstock.com/i/1000x1000/42/13/pizza-background-pattern-vector-24044213.jpg");
+    margin: auto;
+    padding-left: 30%;
+}
+#all {
+
+    background-color: white;
+
+    opacity: .5;
+}
